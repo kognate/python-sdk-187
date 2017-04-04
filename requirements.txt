@@ -1,0 +1,5 @@
+watson_developer_cloud
+pyOpenSSL
+python-swiftclient
+jupyter
+python-keystoneclient
